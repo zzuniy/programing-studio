@@ -1,2 +1,0 @@
-# programing-studio
-hi
